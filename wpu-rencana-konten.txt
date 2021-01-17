@@ -3,6 +3,7 @@ Renacan konten wpu
   * ES6
   * Frsmework Javascript
     - Vue
+    - React
 - Struktur Data Dasar
 - PHO
   - Laravel
