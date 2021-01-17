@@ -2,10 +2,11 @@ Renacan konten wpu
 - Javascript
   * ES6
   * Frsmework Javascript
-    - Angular
+    - Vue
     - React
-
+- Struktur Data Dasar
 - PHO
-  - Laavel
+  - Laravel
 - Interview
 - Vlogs
+- Python
