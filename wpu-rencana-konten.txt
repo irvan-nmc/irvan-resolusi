@@ -1,5 +1,7 @@
 Renacan konten wpu
 - Javascript
+  * ES6
+  * Frsmework Javascript
 - PHO
 - Interview
 - Vlogs
